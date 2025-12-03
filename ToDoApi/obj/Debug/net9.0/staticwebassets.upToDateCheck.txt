@@ -1,0 +1,6 @@
+wwwroot\css\site.css
+wwwroot\index.html
+wwwroot\js\site.js
+D:\Repositorios\ToDoApi\ToDoApi\wwwroot\css\site.css
+D:\Repositorios\ToDoApi\ToDoApi\wwwroot\index.html
+D:\Repositorios\ToDoApi\ToDoApi\wwwroot\js\site.js
